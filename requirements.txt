@@ -1,0 +1,7 @@
+langchain==0.0.228
+transformers
+torch
+einops
+accelerate
+bitsandbytes
+sentencepiece
