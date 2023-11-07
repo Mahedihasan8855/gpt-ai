@@ -1,0 +1,6 @@
+[
+    {"input": "Translate this English sentence.", "target": "Traduisez cette phrase en anglais."},
+    {"input": "Summarize the following paragraph.", "target": "Résumez le paragraphe suivant."},
+    {"input": "Write a short story about a detective.", "target": "Écrivez une courte histoire sur un détective."},
+    {"input": "Explain the concept of artificial intelligence.", "target": "Expliquez le concept d'intelligence artificielle."}
+]
